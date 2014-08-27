@@ -1,0 +1,21 @@
+Portal Genial Logistica
+ - Desenvolvimento ASP.NET
+ - Design - Jã existe
+
+ASP.NET rodar no servidor da AMAZON.
+
+--Telas
+
+-Login
+
+-Cadastro -> Tipo Colaborador/Cliente
+
+-Colaborador -> Moto (Segmento)            
+               Caminhoneiro (Segmento)
+               Pessoa (Segmento)
+
+-Cliente -> Pessoa que irá solicitar o Frete
+	CPF
+	RG
+	Pagamento
+	Endereco
