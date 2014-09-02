@@ -1,0 +1,5 @@
+Colaborador informa o tipo de Transporte, Nome, Email e Telefone.
+
+Colaborar recebe um email para um pre-cadastro e informa os dados.
+
+
