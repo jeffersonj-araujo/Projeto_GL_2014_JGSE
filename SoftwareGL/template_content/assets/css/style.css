@@ -105,11 +105,13 @@ Website: http://www.sean-theme.com/color-admin/
 /* 1.1 Reset and overrides */
 
 body {
-    padding-top: 54px;
-    background: #d9e0e7;
-    font-size: 12px;
-    font-family: 'Open Sans', "Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #707478;
+	padding-top: 54px;
+	font-size: 12px;
+	font-family: 'Open Sans', "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #707478;
+	background-image: url(../img/bg-map.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 }
 h1, h2, h3, h4, h5, h6{
     font-weight: 500;
@@ -1450,21 +1452,24 @@ select[multiple].form-control {
 /* 3.14.5 Component - Button - Success */
 
 .btn.btn-success {
-    color: #fff;
-    background: #00acac;
-    border-color: #00acac;
+	color: #fff;
+	background-color: #F90;
+	border-top-color: #F90;
+	border-right-color: #F90;
+	border-bottom-color: #F90;
+	border-left-color: #F90;
 }
 .btn.btn-success:hover, 
 .btn.btn-success:focus, 
 .btn.btn-success:active, 
 .btn.btn-success.active, 
 .open .dropdown-toggle.btn-success {
-    background: #008a8a;
-    border-color: #008a8a;
+    background:#FC9;
+    border-color:#FC9;
 }
 .btn-group .btn.btn-success:not(.active) + .btn.btn-success,
 .input-group-btn .btn.btn-success:not(.active) + .btn.btn-success {
-    border-left-color: #008a8a;
+    border-left-color:#FC9;
 }
 
 
@@ -3422,7 +3427,7 @@ ul.tagit.inverse li.tagit-choice .tagit-close:focus .ui-icon-close:before {
 }
 .login .login-header {
     position: absolute;
-    top: -80px;
+    top: -200px;
     left: 50%;
     right: 0;
     width: 450px;
