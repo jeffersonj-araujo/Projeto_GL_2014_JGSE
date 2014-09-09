@@ -1,0 +1,6 @@
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_Tela\bin\GL_Tela.dll.config
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_Tela\bin\GL_Tela.dll
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_Tela\bin\GL_Tela.pdb
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_Tela\obj\Debug\GL_Tela.csprojResolveAssemblyReference.cache
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_Tela\obj\Debug\GL_Tela.dll
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_Tela\obj\Debug\GL_Tela.pdb
