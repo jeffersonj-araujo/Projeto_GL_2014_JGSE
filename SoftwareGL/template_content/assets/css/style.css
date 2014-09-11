@@ -109,7 +109,7 @@ body {
 	font-size: 12px;
 	font-family: 'Open Sans', "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #707478;
-	background-image: url(../img/bg-map.png);
+	background-image: url(../img/bg_caminhao.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
@@ -3427,7 +3427,7 @@ ul.tagit.inverse li.tagit-choice .tagit-close:focus .ui-icon-close:before {
 }
 .login .login-header {
     position: absolute;
-    top: -200px;
+    top: -150px;
     left: 50%;
     right: 0;
     width: 450px;
