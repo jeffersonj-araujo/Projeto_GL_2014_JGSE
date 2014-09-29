@@ -1,0 +1,5 @@
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_CamadaDados\bin\Debug\GL_CamadaDados.dll
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_CamadaDados\bin\Debug\GL_CamadaDados.pdb
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_CamadaDados\obj\Debug\GL_CamadaDados.dll
+C:\Users\Glauco Lupi\Documents\Visual Studio 2013\GenialLogistica\GenialLogistica\GL_CamadaDados\obj\Debug\GL_CamadaDados.pdb
+C:\Users\Glauco Lupi\documents\visual studio 2013\GenialLogistica\GenialLogistica\GL_CamadaDados\obj\Debug\GL_CamadaDados.csprojResolveAssemblyReference.cache
